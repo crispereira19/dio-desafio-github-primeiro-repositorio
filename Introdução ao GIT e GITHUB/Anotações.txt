@@ -1,2 +1,27 @@
+GIT é um sistema de versionamento de código distribuído.
+
+- criado em 2005 pelo Linus Torvalds
+- objetivo: criar versões de diferentes pessoas, monitorar diversar versões do código (programa).
+
+COMANDOS:
+
+- dir: lista de diretórios
+- cd/: selecionar pastas
+- cd .. : retroceder uma nível
+- cls: limpar terminal/tela
+- mkdir: criar pasta7diretório
+- del: deleta o conteúdo que tem na pasta
+- rmdir "pasta" /S /Q : deletar pasta
+
+
+FUNCIONAMENTO DO GIT:
+- Algoritmo de encriptação: SHA (Secure Hash Algorithm - Algoritmo de Hash Seguro): conjunto de caracteres de 40 digitos.
+
+OBJETOS INTERNOS DO GIT:
+- BLOBS
+- TREES
+- COMMITS
+
+
 O Git Bash é um terminal extendido para otimizar o uso do GIT.
 
